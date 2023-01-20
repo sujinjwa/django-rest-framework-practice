@@ -1,2 +1,11 @@
 # django-rest-framework-practice
-DRF 공부 기록
+
+## Install
+```
+$ pip install django
+```
+
+## How to Start
+```
+$ python manage.py runserver
+```
